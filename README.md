@@ -1,16 +1,12 @@
+<p align="center">
+  <img src="./assets/og.png" alt="Rehzen Studio — Fikri ürüne, ürünü ölçeğe." width="100%">
+</p>
+
 <div align="center">
 
-# Rehzen Studio
-
-### Fikri ürüne, ürünü ölçeğe.
-
-Bağımsız teknoloji stüdyosu · Web · Yapay zekâ · Otomasyon · Oyun
-
-<p>
-  <a href="https://rehzenstudio.com/">rehzenstudio.com</a>
-  ·
-  <a href="mailto:hello@rehzenstudio.com">hello@rehzenstudio.com</a>
-</p>
+<a href="https://rehzenstudio.com/">rehzenstudio.com</a>
+·
+<a href="mailto:hello@rehzenstudio.com">hello@rehzenstudio.com</a>
 
 <img src="https://img.shields.io/badge/Web-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web">
 <img src="https://img.shields.io/badge/AI%20%26%20Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="AI and Agents">
